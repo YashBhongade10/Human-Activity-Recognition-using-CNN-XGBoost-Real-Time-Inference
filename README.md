@@ -28,6 +28,6 @@ The full project report submitted for evaluation can be accessed here:
 ## 📂 Dataset  
 The dataset used in this project consists of labeled images stored in folders representing each activity class.
 
-Example directory structure:
+Example directory structure: https://www.kaggle.com/datasets/emirhanai/human-action-detection-artificial-intelligence 
 
 
