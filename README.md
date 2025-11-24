@@ -1,14 +1,33 @@
 # Human-Activity-Recognition-using-CNN-XGBoost-Real-Time-Inference
 
-Human Activity Recognition (HAR) is an important problem in computer vision, enabling systems to understand human actions from images or videos.
-In this project, we build a complete end-to-end activity classification system using:
+This project focuses on building a Convolutional Neural Network (CNN) model capable of classifying different human activities from images.  
+The model is trained on a custom dataset consisting of multiple activity classes such as *hugging, fighting, handshake,* and more.
 
-✔️ Convolutional Neural Networks (CNN – ResNet18 Fine-Tuned)
+This repository contains:
+- Complete source code
+- Trained model files (optional)
+- Report for academic submission
+- Demo video demonstrating the working project
 
-✔️ PCA-based Feature Compression
+---
 
-✔️ XGBoost Classifier
+## 📽️ Demo Video  
+Click the link below to watch the working demo of the project:
 
-✔️ A Real-Time Webcam Prediction Pipeline
+🔗 **Demo Video:** *[Add your Google Drive / YouTube link here]*
 
-✔️ A Gradio Web Application for Upload/Live Inference
+---
+
+## 📄 Project Report  
+The full project report submitted for evaluation can be accessed here:
+
+🔗 **Report PDF:** *[Add your report link here]*
+
+---
+
+## 📂 Dataset  
+The dataset used in this project consists of labeled images stored in folders representing each activity class.
+
+Example directory structure:
+
+
