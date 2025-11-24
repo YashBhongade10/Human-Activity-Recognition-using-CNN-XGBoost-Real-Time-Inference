@@ -21,7 +21,7 @@ Click the link below to watch the working demo of the project:
 ## 📄 Project Report  
 The full project report submitted for evaluation can be accessed here:
 
-🔗 **Report PDF:** *[Add your report link here]*
+🔗 **Report Link:** https://www.overleaf.com/2339834176rhxddppxfspb#3f68db 
 
 ---
 
