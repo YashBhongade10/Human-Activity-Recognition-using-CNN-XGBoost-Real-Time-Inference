@@ -14,7 +14,7 @@ This repository contains:
 ## 📽️ Demo Video  
 Click the link below to watch the working demo of the project:
 
-🔗 **Demo Video:** *[Add your Google Drive / YouTube link here]*
+🔗 **Demo Video:** https://drive.google.com/file/d/19u_JyOUxECpSujksmRmykHVdKXp6fWpn/view?usp=drive_link 
 
 ---
 
